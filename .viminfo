@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1763663706,,"wq"
+|2,0,1763663835,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  34  ~/login.sh
-|4,48,1,34,1763663706,"~/login.sh"
+'0  3  23  ~/login.sh
+|4,48,3,23,1763663835,"~/login.sh"
+'1  1  34  ~/login.sh
+|4,49,1,34,1763663706,"~/login.sh"
+'2  1  34  ~/login.sh
+|4,50,1,34,1763663706,"~/login.sh"
 
 # Jumplist (newest first):
+-'  3  23  ~/login.sh
+|4,39,3,23,1763663835,"~/login.sh"
+-'  1  34  ~/login.sh
+|4,39,1,34,1763663815,"~/login.sh"
 -'  1  34  ~/login.sh
 |4,39,1,34,1763663706,"~/login.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/login.sh
-	*	1763663701	0
-	"	1	34
-	^	1	35
-	.	1	34
-	+	1	34
+	*	1763663831	0
+	"	3	23
+	^	3	24
+	.	3	23
+	+	1	35
+	+	3	23
